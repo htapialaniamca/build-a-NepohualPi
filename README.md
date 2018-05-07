@@ -6,7 +6,7 @@ Hemos sustituido el vocablo de _pequeños elementos semejantes_ por Pi para indi
 
 ![NepohualPi](http://dicyg.fi-c.unam.mx:8080/lalo/news/nepohualtzintzin-una-computadora-prehispanica/image_mini)
 
-[comment]: # ![Build an OctaPi](/en/images/banner.png)
+[//]: # ![Build an OctaPi](/en/images/banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/build-an-octapi](https://projects.raspberrypi.org/en/projects/build-an-octapi)
 
